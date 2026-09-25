@@ -1,4 +1,15 @@
-# Teams
+# Team Operating System Lifecycle Control Framework
+
+Version: 1.0  
+Status: Proposed Baseline  
+Architecture: Rimba Team Operating System
+
+
+## Purpose
+
+TOS composes existing Rimba capabilities around `OrgTeam` without centralizing their domain ownership.
+
+# General Teams
 
 ## Operations Unit
 ### Production Team
